@@ -23,7 +23,7 @@ def eft_create_record(request):
     }
     return render(request, 'EFT_Items/EFT_Items_create.html', context)
 ```
-![Input Form](https://github.com/[borregito22]/[Item-Tracker-Summary]/blob/[Screenshots]/160342.png?raw=true)
+![Input Form](https://github.com/Borregito22/Item-Tracker-Summary/blob/main/Screenshots/160342.png?raw=true)
 
 ### Read
 
