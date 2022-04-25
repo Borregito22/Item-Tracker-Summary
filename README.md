@@ -1,7 +1,7 @@
 # Item-Tracker-Summary
 
 ## Introduction
-For the last two weeks at The Tech Academy, I worked on building a Database collection manager using Python and the Django Framework. I worked with a team where everybody built individual apps that are accessible from the home page of the project. The app I built allows users to input an item to keep track of with certain details about the item. I was particularly proud of the instant search bar to filter results from the database. My instructor sent me a link to DataTables which is a plug-in for the jQuery JavaScript library. URL: https://datatables.net/
+For the last two weeks at The Tech Academy, I worked on building a Database collection manager using Python and the Django Framework. I worked with a team where everybody built individual apps that are accessible from the home page of the project. The project was ran with Daily Standups and code retrospective meetings each Friday. The app I built allows users to input an item to keep track of with certain details about the item. I was particularly proud of the instant search bar to filter results from the database. My instructor sent me a link to DataTables which is a plug-in for the jQuery JavaScript library. URL: https://datatables.net/
 
 ## CRUD Functionality
 Overall, users are allowed to input an item, then have the option to update or delete the item from the database. The items are displayed on a table in alphabetical order.
@@ -75,3 +75,4 @@ def eft_delete(request, pk):
 ## Skills Acquired
 * Utilizing Version Control to keep everyone's code clean and to prevent the master branch from accidentally breaking
 * Learned to debug/create code from finding similar examples from other developers and seeing how they got their code to function
+* Working within PyCharm and utilizing Django for the project
